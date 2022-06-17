@@ -36,7 +36,7 @@ function App() {
       <Content>
         <SearchInput>
           <input
-            maxLength={140}
+            maxLength={200}
             type="text"
             name="search"
             placeholder="Adicione uma nova tarefa"
