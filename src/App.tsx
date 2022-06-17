@@ -15,7 +15,7 @@ import {
   Tag,
   Task,
   TaskContent
-} from './AppStyles'
+} from './styles'
 
 interface TaskData {
   id: number
